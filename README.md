@@ -1,4 +1,4 @@
-# loraWAN
+# LoRaWAN packet capture and decoding
 Raspbian code for sending packets with different data rates using the Microchips development kit 900.
 
 Start.py must be set as a startup code in the Raspberry Pi. This code waits for an external button to be pushed to activate lm.py and lm2.py.
